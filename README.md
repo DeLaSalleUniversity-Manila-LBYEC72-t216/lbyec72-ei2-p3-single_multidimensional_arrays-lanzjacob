@@ -7,7 +7,7 @@ lbyec72-ei2-p3-single_multidimensional_arrays-lanzjacob created by GitHub Classr
 ![](4.PNG)
 ![](5.PNG)
 ![](6.PNG)
-![](7.PNG)
+![](7.1.PNG)
 ![](8.PNG)
 ![](9.PNG)
 ![](10.PNG)
